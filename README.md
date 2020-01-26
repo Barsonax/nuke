@@ -96,6 +96,7 @@ This project is driven by contributors investing their private free time. If it 
 - [avivasolutionsnl/sitecore-commerce-docker](https://github.com/avivasolutionsnl/sitecore-commerce-docker/tree/master/build)
 - [avivasolutionsnl/sitecore-docker](https://github.com/avivasolutionsnl/sitecore-docker/tree/master/build)
 - [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions/tree/master/Build) ⭐️
+- [Barsonax/Singularity](https://github.com/Barsonax/Singularity)
 - [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery/tree/dev/build)
 - [JetBrains/YouTrackSharp](https://github.com/JetBrains/YouTrackSharp)
 - [joaomatossilva/DateTimeExtensions](https://github.com/joaomatossilva/DateTimeExtensions)
